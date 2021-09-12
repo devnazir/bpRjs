@@ -1,9 +1,15 @@
 # BPRJS - Boiler Plate ReactJS
 
+## GET STARTED  
+1. ```git clone https://github.com/devnazir/bpRjs.git```
+2. ```cd bprjs```
+3. ```npm install```
+4. ```npm start```
+
 ### What is this?
 This is just an opinionated ReactJS folder structure, I make this for myself. but, if you wanna try this folder structure, it's okay.
 
-### About Structure Folder
+#### About Structure Folder
 named domain structurer folder, is a structured folder that follows the definition of domain. 
 
 Example URL with root page
@@ -45,24 +51,16 @@ https://admin.nazirbahrululum.com/about
 
 
 ### Details
-```
-components => contains all reusable components or stateless component
+**components** => contains all reusable components or stateless component.
 
-domain => has explained above
+**domain** => has explained above
 
-errors => error page (optional)
+**errors** => error page (optional)
 
-routes => routes config
+**routes** => routes config
 
-services => consume API folder
+**services** => consume API folder
 
-store => redux store
+**store** => redux store
 
-utils => all utility (optional)
-```
-
-## GET STARTED  
-1. clone this repo
-2. ```cd bprjs```
-3. ```npm install```
-4. ```npm start```
+**utils** => all utility (optional)
