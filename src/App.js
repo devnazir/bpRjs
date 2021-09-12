@@ -1,9 +1,10 @@
 import { BrowserRouter as Router, Switch } from "react-router-dom";
 import { routes, RouteWithSubRoutes } from "./routes/index";
+import "./App.css";
 
 function App() {
   return (
-    <div className="App">
+    <div className="container">
       <Router>
         <Switch>
           {routes.map((route, i) => (

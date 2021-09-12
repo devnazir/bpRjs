@@ -1,7 +1,7 @@
 import { lazy } from "react";
 import { Route } from "react-router-dom";
 
-const Home = lazy(() => import("@domain/index"));
+const Home = lazy(() => import("@domain/rootPage"));
 
 export const routes = [
   {
