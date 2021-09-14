@@ -16,7 +16,7 @@ Example URL with root page
 
 ![url-rootpage](/images/url-without-page.png)
 
-Assume domain name and domain is a folder domain, and folder domain has several files/folder that is called a page.
+Assume domain name and domain is a domain folder, and domain folder has several files/folder that is called a page.
 
 ![structure-domain](/images/structure-folder-domain.png)
 
